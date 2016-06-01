@@ -1,0 +1,10 @@
+D:\SourceCode\github\Lucene.Net-Sample\LuceneNetSample\bin\Debug\LuceneNetSample.exe.config
+D:\SourceCode\github\Lucene.Net-Sample\LuceneNetSample\bin\Debug\LuceneNetSample.exe
+D:\SourceCode\github\Lucene.Net-Sample\LuceneNetSample\bin\Debug\LuceneNetSample.pdb
+D:\SourceCode\github\Lucene.Net-Sample\LuceneNetSample\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SourceCode\github\Lucene.Net-Sample\LuceneNetSample\bin\Debug\Lucene.Net.dll
+D:\SourceCode\github\Lucene.Net-Sample\LuceneNetSample\bin\Debug\Lucene.Net.pdb
+D:\SourceCode\github\Lucene.Net-Sample\LuceneNetSample\bin\Debug\Lucene.Net.xml
+D:\SourceCode\github\Lucene.Net-Sample\LuceneNetSample\obj\Debug\LuceneNetSample.csprojResolveAssemblyReference.cache
+D:\SourceCode\github\Lucene.Net-Sample\LuceneNetSample\obj\Debug\LuceneNetSample.exe
+D:\SourceCode\github\Lucene.Net-Sample\LuceneNetSample\obj\Debug\LuceneNetSample.pdb
