@@ -1,3 +1,3 @@
 # Lucene.Net-Sample
-I want to create a sample project using Lucene.Net
+I create a sample project using Lucene.Net to share how easy it is.
 
