@@ -14,7 +14,7 @@ namespace LuceneNetSample
         private Analyzer _analyzer = new StandardAnalyzer(Lucene.Net.Util.Version.LUCENE_29);
         private Directory _luceneIndexDirectory;
         private IndexWriter _writer;
-        private string _indexPath = @"D:\Index"; //change this value to feet your needs
+        private string _indexPath = @"D:\Index"; //change this value to fit your needs
 
         public LuceneService()
         {
